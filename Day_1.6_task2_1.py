@@ -5,7 +5,7 @@
 # °C = (°F - 32) × 5/9
 
   
-Fahrenheit = float(input("Please provide your Fahrenheit: "))
-Celcius = round((Fahrenheit - 32) * 5/9)
-print(f"The  {Fahrenheit}°F is {Celcius}°C")
+fahrenheit = float(input("Please provide your Fahrenheit: "))
+celcius = round((fahrenheit - 32) * 5/9)
+print(f"The  {fahrenheit}°F is {celcius}°C")
 
