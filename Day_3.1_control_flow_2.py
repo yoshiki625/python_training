@@ -101,7 +101,7 @@
 # pattern = input("Please tell the pattern?: ")
 # while i <= rows:
 #     print(pattern * i)
-#     i = i + 1
+#     i = i + 1 # increment
 
 # sol1
 # rows = int(input("Please tell the no of rows?: "))
